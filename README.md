@@ -4,7 +4,7 @@
 
 - Textured: `learn-wgpu`'s "Textures and bind groups" tutorial with some changes.
 - Cameras: `learn-wgpu`'s "Uniform buffers and a 3d camera", but the shown mesh is tridimensional.
-- Instancing: `learn-wgpu`'s "Uniform buffers and a 3d camera" + "The depth buffer", but with 128 entities whose model matrices are updated every frame, and with a toggleable depth buffer view.
+- Instancing: `learn-wgpu`'s "Uniform buffers and a 3d camera" + "The depth buffer", but with ~~128~~ 1089 entities whose model matrices are updated every frame, and with a toggleable depth buffer view.
 - "Clown Colors" and "Triangle": fragment shader playaround.
 
 ## Controls
